@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Angular Projects\\DatingApp\\API\\API.csproj": {}
+    "d:\\Angular Projects\\DatingApp\\API\\API.csproj": {}
   },
   "projects": {
-    "D:\\Angular Projects\\DatingApp\\API\\API.csproj": {
+    "d:\\Angular Projects\\DatingApp\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Angular Projects\\DatingApp\\API\\API.csproj",
+        "projectUniqueName": "d:\\Angular Projects\\DatingApp\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "D:\\Angular Projects\\DatingApp\\API\\API.csproj",
+        "projectPath": "d:\\Angular Projects\\DatingApp\\API\\API.csproj",
         "packagesPath": "C:\\Users\\soggy\\.nuget\\packages\\",
-        "outputPath": "D:\\Angular Projects\\DatingApp\\API\\obj\\",
+        "outputPath": "d:\\Angular Projects\\DatingApp\\API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\soggy\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -21,7 +21,6 @@
           "net7.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -39,6 +38,16 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "target": "Package",
+              "version": "[7.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[7.0.4, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
