@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\Angular Projects\\DatingApp\\API\\API.csproj": {}
+    "D:\\Angular Projects\\DatingApp\\API\\API.csproj": {}
   },
   "projects": {
-    "d:\\Angular Projects\\DatingApp\\API\\API.csproj": {
+    "D:\\Angular Projects\\DatingApp\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Angular Projects\\DatingApp\\API\\API.csproj",
+        "projectUniqueName": "D:\\Angular Projects\\DatingApp\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "d:\\Angular Projects\\DatingApp\\API\\API.csproj",
+        "projectPath": "D:\\Angular Projects\\DatingApp\\API\\API.csproj",
         "packagesPath": "C:\\Users\\soggy\\.nuget\\packages\\",
-        "outputPath": "d:\\Angular Projects\\DatingApp\\API\\obj\\",
+        "outputPath": "D:\\Angular Projects\\DatingApp\\API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\soggy\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -21,6 +21,7 @@
           "net7.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -40,6 +41,8 @@
           "targetAlias": "net7.0",
           "dependencies": {
             "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
               "target": "Package",
               "version": "[7.0.4, )"
             },
