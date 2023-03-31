@@ -61,3 +61,8 @@ D:\Angular Projects\DatingApp\API\bin\Debug\net7.0\runtimes\win-arm64\native\e_s
 D:\Angular Projects\DatingApp\API\bin\Debug\net7.0\runtimes\win-x64\native\e_sqlite3.dll
 D:\Angular Projects\DatingApp\API\bin\Debug\net7.0\runtimes\win-x86\native\e_sqlite3.dll
 D:\Angular Projects\DatingApp\API\obj\Debug\net7.0\API.csproj.CopyComplete
+D:\Angular Projects\DatingApp\API\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Angular Projects\DatingApp\API\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Angular Projects\DatingApp\API\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\Angular Projects\DatingApp\API\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\Angular Projects\DatingApp\API\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
